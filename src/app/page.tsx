@@ -16,7 +16,7 @@ export default function Page() {
     <main className="flex flex-col min-h-[100dvh] space-y-10">
       <script
         defer
-        src="https://trace.zeabur.app/script.js"
+        src="https://a.peterchen97.cn/script.js"
         data-website-id="a4f1384a-07c0-484b-b661-7542108a927a"
       ></script>
 
